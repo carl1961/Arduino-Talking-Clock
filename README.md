@@ -2,9 +2,9 @@
 <div align="center">
 
 # 🗣️ Arduino Talking Clock
-Programed by Gemini AI
-*A reliable, standalone desktop talking clock with voice synthesis, hourly chimes, a morning alarm, and LED animations.*
 
+*A reliable, standalone desktop talking clock with voice synthesis, hourly chimes, a morning alarm, and LED animations.*
+Programed by Gemini AI
 [Features](#features) • [Hardware Requirements](#hardware-requirements) • [Wiring & Pinout](#wiring--pinout) • [SD Card Setup](#sd-card-setup) • [Installation](#installation)
 
 </div>
